@@ -1,0 +1,26 @@
+_repo: Tabitha-s-Vacation_20332
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: MacArthur, Ruth Brown
+    alias: Brown, Ruth Alberta
+    birthdate: 1881
+    gutenberg_agent_id: '9237'
+    url: http://www.gutenberg.org/2009/agents/9237
+description: ''
+gutenberg_issued: '2007-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20332'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nevada -- Juvenile fiction'
+- !lcc 'PZ'
+title: Tabitha's Vacation
+url: http://www.gutenberg.org/ebooks/20332
